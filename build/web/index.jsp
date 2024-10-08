@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 5/10/2024, 2:57:07 p. m.
-    Author     : Diego Serrano
+    Author     : Cesar
 --%>
 <%@page import="modelo.Puesto"%>
 <%@page import="modelo.Empleado"%> 
